@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="Dogimg" type="id" />
+    <item name="namedog" type="id" />
+    <item name="agedog" type="id" />
+    <item name="Hobbe" type="id" />
+</resources>
